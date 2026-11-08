@@ -1,0 +1,8 @@
+fer2013/
+fer2013.zip
+dataset/
+datasets/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.zip
